@@ -1,9 +1,5 @@
 # Hello folks, I'm Fabio Henrique! ![welcomeglitch](https://user-images.githubusercontent.com/84535296/129428830-14dbb119-7467-402c-82bc-202bfd435fdf.gif)
 ---
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML, CSS AND JS
-- 💞️ I’m looking to collaborate in front-end 
-
 ![js wallpaper](https://user-images.githubusercontent.com/84535296/129431654-63535273-8fe2-4385-a854-ef2021f6fef5.jpeg)
 
 <!---
