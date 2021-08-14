@@ -20,7 +20,6 @@
   <a href="https://www.linkedin.com/in/fabio-henrique-55ba2a176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.playstation.com/pt-br/" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
   <a href="https://www.coingecko.com/en/coins/bitcoin" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>  
   
 ![Snake animation](https://github.com/fabiolhen/fabiolhen/blob/output/github-contribution-grid-snake.svg)  
