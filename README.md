@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning HTML, CSS AND JS
 - 💞️ I’m looking to collaborate in front-end 
 
+![js wallpaper](https://user-images.githubusercontent.com/84535296/129431654-63535273-8fe2-4385-a854-ef2021f6fef5.jpeg)
+
 <!---
 fabiolhen/fabiolhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
