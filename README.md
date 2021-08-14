@@ -1,7 +1,7 @@
 # Hello folks, I'm Fabio Henrique! ![welcomeglitch](https://user-images.githubusercontent.com/84535296/129428830-14dbb119-7467-402c-82bc-202bfd435fdf.gif)
 <div>
   <a href="https://github.com/fabiolhen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolhen&show_icons=true&theme=_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolhen&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolhen&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
